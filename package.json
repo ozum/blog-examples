@@ -1,4 +1,5 @@
 {
+  "name": "blog-examples",
   "private": true,
   "scripts": {
     "build": "turbo run build",
@@ -8,11 +9,7 @@
   },
   "devDependencies": {
     "@turbo/gen": "^1.9.7",
-    "eslint": "^7.32.0",
-    "eslint-config-custom": "workspace:*",
-    "prettier": "^2.5.1",
     "turbo": "latest"
   },
-  "packageManager": "pnpm@8.6.10",
-  "name": "blog-codes"
+  "packageManager": "pnpm@8.6.10"
 }
